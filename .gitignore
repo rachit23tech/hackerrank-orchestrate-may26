@@ -25,6 +25,7 @@ build/
 .idea/
 .vscode/
 Thumbs.db
+.worktrees/
 
 # local data / caches the participant may create
 data/index/
